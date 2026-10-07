@@ -1,0 +1,6 @@
+url: https://github.com/KKYZD/dsh-model-fold
+name: KKYZD/dsh-model-fold
+category: model
+description:
+  en: ZCode-style model picker for the composer: a provider menu that opens upward, floating model submenus beside it, reasoning-effort selection, and keyboard navigation.
+  zh: DSH 的 ZCode 式模型选择器：提供方菜单向上展开、旁列模型子面板、可选推理等级，并支持完整键盘导航。
